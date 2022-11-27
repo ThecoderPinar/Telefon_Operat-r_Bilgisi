@@ -8,7 +8,7 @@ I'm a Software Developer, Social Media Magement, and Desingner
 
 
 # 📞 Python Telefon Operator Bilgisi 📱
-Telefon Operator Bilgisi aplikasyonu ile telefon numarasının1 ait olduğu operatör şirketine ve telefon numarasının geçerli olup olmadığı durumuna erişilebilir.
+Telefon Operator Bilgisi aplikasyonu ile telefon numarasının hangi operatör şirketine bağlı olduğunun öğrenebilir.
 
 Uygulamanın sunduğu özellikler:
 
