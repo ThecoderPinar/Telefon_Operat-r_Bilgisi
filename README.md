@@ -1,0 +1,1 @@
+# Telefon_Operat-r_Bilgisi
